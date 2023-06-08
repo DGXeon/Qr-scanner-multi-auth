@@ -1,0 +1,16 @@
+{
+  "name": "CheemsBot-Multi-Auth-Session",
+  "version": "1.0.0",
+  "description": "Multi auth session generator for whatsapp bot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "DGXeon",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileys@^6.0.9",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
